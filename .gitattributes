@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<html>
+  <head>
+      <title>Thid or That</title>
+      <link rel='stylesheet' type='text/css' href=exercise.css'>
+  </head>
